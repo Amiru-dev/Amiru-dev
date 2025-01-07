@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amiru Upek</h1>
+<h1 align="center">Greetings 👋, I'm Amiru Upek</h1>
 <h3 align="center">A tech enthusiast from Sri Lanka, passionate about creating seamless frontend and backend experiences</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amiru-dev&label=Profile%20views&color=0e75b6&style=flat" alt="amiru-dev" /> </p>
