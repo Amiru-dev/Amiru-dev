@@ -1,7 +1,6 @@
 <h1 align="center">Greetings 👋, I'm Amiru Upek</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Amiru+Upek)](https://git.io/typing-svg)
-
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
