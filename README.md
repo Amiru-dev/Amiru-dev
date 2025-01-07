@@ -1,3 +1,5 @@
+<p align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture></p>
+
 <h1 align="center">Greetings 👋, I'm Amiru Upek</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;Turning+ideas+into+code.;Here+to+share+and+grow.;Thanks+for+stopping+by!)](https://git.io/typing-svg)
