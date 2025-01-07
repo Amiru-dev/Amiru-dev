@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 - ---
 
-<h3 align="center">Languages, Frameworks and Tools</h3>
+<h2 align="center">🛠️ Languages, Frameworks and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,bootstrap,git,github,mysql,arduino,php&perline=5" />
