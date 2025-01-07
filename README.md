@@ -3,7 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amiru-dev&label=Profile%20views&color=0e75b6&style=flat" alt="amiru-dev" /> </p>
 
----
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 - 🔭 I’m currently working on **fruitShopApp**
 
