@@ -1,4 +1,10 @@
 <h1 align="center">Greetings 👋, I'm Amiru Upek</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Amiru+Upek)](https://git.io/typing-svg)
+
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
 <h3 align="center">A tech enthusiast from Sri Lanka, passionate about creating seamless frontend and backend experiences</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amiru-dev&label=Profile%20views&color=0e75b6&style=flat" alt="amiru-dev" /> </p>
