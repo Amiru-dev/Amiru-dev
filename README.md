@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 - 🔭 I’m currently working on **fruitShopApp**
 
-- 💬 Ask me about **HTML, CSS, BOOTSTRAP, JS, PHP, JAVA**
+- 💬 Ask me about **HTML, CSS, BOOTSTRAP, JS, PHP, JAVA, MYSQL**
 
 - 📫 How to reach me **amirupekw@gmail.com**
 
