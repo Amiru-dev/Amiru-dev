@@ -18,7 +18,7 @@
 <h3 align="center">Languages, Frameworks and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,java,bootstrap,git,github,mysql,arduino,opencv,php&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,java,bootstrap,ps,github,mysql,arduino,opencv,php&perline=6" />
   </a>
 </p>
 
