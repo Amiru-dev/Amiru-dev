@@ -30,8 +30,21 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ---
 
-<h3 align="center">My Statistics</h3>
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=amiru-dev&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+</td>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiru-dev&show_icons=true&locale=en&layout=compact" alt="amiru-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amiru-dev&show_icons=true&locale=en" alt="amiru-dev" /></p>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amiru-dev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
