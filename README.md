@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-- 🔭 I’m currently working on **fruitShopApp**
+- 🔭 I’m currently working on **Velora**
 
 - 💬 Ask me about **HTML, CSS, BOOTSTRAP, JS, PHP, JAVA, MYSQL**
 
