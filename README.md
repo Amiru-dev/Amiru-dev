@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 - 📫 How to reach me **amirupekw@gmail.com**
 
-- ⚡ In the world of endless possibilities, remember **"Nothing is true, Everything is permitted"**<br/>
+- ⚡ In the world of endless possibilities, remember **"Nothing is true, Everything is permitted"**<br/><br/>
 - ---
 
 <h2 align="center">🛠️ Languages, Frameworks and Tools</h2>
