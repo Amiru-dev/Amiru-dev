@@ -36,21 +36,23 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ---
 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+---
+
 <h2 align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats</h2>
   <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Amiru-dev&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-</td>
+  <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amiru-dev&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+</div
 
+<br/>
 
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amiru-dev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-
-  </td>
-</tr>
-</table>
+---
 <!--- stats (end) -->
