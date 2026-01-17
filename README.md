@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <h2 align="center">🛠️ Languages, Frameworks and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,bootstrap,git,github,mysql,arduino,php&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,bootstrap,git,github,mysql,arduino,php,react,flutter,cpp,figma,firebase,gcp,gmail,gradle,idea,kotlin,nodejs,opencv,powershell,pr,ae,py,sqlite,spring,tailwind,ts,ubuntu,vscode&perline=16" />
   </a>
 </p>
 
