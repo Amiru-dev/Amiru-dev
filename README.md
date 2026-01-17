@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-
+<br/>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 🔭 I’m currently working on **Android application development**
@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 - 📫 How to reach me **amirupekw@gmail.com**
 
-- ⚡ In the world of endless possibilities, remember **"Nothing is true, Everything is permitted"**<br/><br/>
+- ⚡ In the world of endless possibilities, remember **"Nothing is true, Everything is permitted"**<br/><br/><br/>
 - ---
 
 <h2 align="center">🛠️ Languages, Frameworks and Tools</h2>
