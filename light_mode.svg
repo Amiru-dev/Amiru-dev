@@ -1,0 +1,100 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+.ascii { font-size: 7px; letter-spacing: 0px; line-height: 8px; }
+</style>
+<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="25" fill="#24292f" class="ascii">
+<tspan x="15" y="25">                                                                                        </tspan>
+<tspan x="15" y="33">                                                                                        </tspan>
+<tspan x="15" y="41">                                           :;~;;:                                       </tspan>
+<tspan x="15" y="49">                                  ;jtXU0%%WWWWWWWWW%Nt~                                 </tspan>
+<tspan x="15" y="57">                               =X%WWWWWWWWWWWWWWWWW@@@@WU~                              </tspan>
+<tspan x="15" y="65">                            +X%WWW%WW%%%WWWWWWWW%WWWWW@@@@U                             </tspan>
+<tspan x="15" y="73">                          =NWWWWW%WWWWWW%%WWWWWWWWWWW@@@@@@0=                           </tspan>
+<tspan x="15" y="81">                         N@@@WWWWW%%WWWWW%WWWWWWWWWWWW@@@@@@W%Nl                        </tspan>
+<tspan x="15" y="89">                       t@@@@WWWWWWWWWWW%WWWWWWWWW@@@@@W@@@@@@@@@Wl                      </tspan>
+<tspan x="15" y="97">                      0@@@@@W@@@WWWWWWWWWWWW@WWW@@@@@@@@@@@@@@@@@@0                     </tspan>
+<tspan x="15" y="105">                     %@@@@@@@@@@W%WWWWWWWW@@@@@@@@@@@@@@@@@@@@@@@@@%                    </tspan>
+<tspan x="15" y="113">                    %@@@@@@@@@@@WWWW%%%WWW@@W@@@@@@@@@@@@@@@@@@@@@@@t                   </tspan>
+<tspan x="15" y="121">                   X@@@@@@@@@@@@WWW%%%%WWWW%%M00NUUYtfXU0%W@@@@@@@W@W                   </tspan>
+<tspan x="15" y="129">                  ;W@@@@@@@@@@@@@W%M%0NUXlji++++++===+iijlfXNW@@@@W@@j                  </tspan>
+<tspan x="15" y="137">                  j@@WW@@@@@@@@@@WNfj+=;;:::::::;;;~==++iijjlYW@WWWW@Y                  </tspan>
+<tspan x="15" y="145">                  =@W@@W@WYNNUYffl=;::,:::::::::::;~==++iiijlf%@WWWW@W                  </tspan>
+<tspan x="15" y="153">                  =@@@@WWUi===~~;:::,,,,,::::::::;;~~=++iiijlf%@@@@@@@:                 </tspan>
+<tspan x="15" y="161">                  ;@@@@W%Xi===~~;:::,,,:::::::::::;~~=++iiijjf%@W@@@@W                  </tspan>
+<tspan x="15" y="169">                  ;@@@@WWfi===~;;:::,,,:::::::::::;;~~==++iijtM@@@@@@X                  </tspan>
+<tspan x="15" y="177">                   W@@@WWl+=~~~;:,,,,,,,:::::::::::::;~=+i+ijlU@@@@@W                   </tspan>
+<tspan x="15" y="185">                   +@@W@W++iltXYXfffl+~;;:::::::;+tUN%%%%%0NXlf@@@@@i                   </tspan>
+<tspan x="15" y="193">                    =W@@%+itYffY0M%%W%Utj=;;;;=tU%@@@W%%0NN0UljW@@@X                    </tspan>
+<tspan x="15" y="201">                     ;W@%=++ijtfjlYUYN0Ufj=~~=lN%%%0NNUYNNYtlj+M@WUl                    </tspan>
+<tspan x="15" y="209">                     +jWM==+ifNj U@@t;tfj+~;;+tY00+;W@W+i0NXlj+N@%t%l                   </tspan>
+<tspan x="15" y="217">                    ,ffWN~=~~+j; ~UX;:~~~~;:;=jlli: jXi:+tliii=U@%ff,                   </tspan>
+<tspan x="15" y="225">                     =fWU~~;::~++~~=i+~;;;;::~ii+=+i+++jj+===+=Y@%f+                    </tspan>
+<tspan x="15" y="233">                     ,iMU~~::,,,:::::::;;;:::~+i+=~;;;;;::;~===YWUl:                    </tspan>
+<tspan x="15" y="241">                      ~jf=;:,,    ,,,,:;;::,,;=+i+~;::::::;;~==XUtj                     </tspan>
+<tspan x="15" y="249">                       =li~::,    ,,,,::::,,,:=+=+=;:::::;;~=++YXt                      </tspan>
+<tspan x="15" y="257">                        tl=~::,,,,,,:::=XYi=ilU0Xi=~;;::;;~=+ilNX:                      </tspan>
+<tspan x="15" y="265">                        +fi+=;:::::::::~li=iftfYfi===~~~~=+ijtXj                        </tspan>
+<tspan x="15" y="273">                         =tli+=~;;;;;;;;~~=+==ijjjijji+++iltXYX                         </tspan>
+<tspan x="15" y="281">                          tttlj+==+ii+=~~;~~~==iijtfYXftltfYUUt                         </tspan>
+<tspan x="15" y="289">                          +tttli+ijfXfllljjiillfYUU00YXftfXUU0=                         </tspan>
+<tspan x="15" y="297">                           ltttjiiijtffl+;::::;=jtXYfffftfXUMX                          </tspan>
+<tspan x="15" y="305">                           :fftljii+==+ijjlXYUYYYXfttffXXYU%U                           </tspan>
+<tspan x="15" y="313">                            :YXtlltl+++itY00M0NUUXffXYUUUU0f                            </tspan>
+<tspan x="15" y="321">                             lXYXfflji=~;~;;~===+ilfYUNN0Mt                             </tspan>
+<tspan x="15" y="329">                          jX;i+lU0Utji+=;:;;~~===ilfYU0%MYt;                            </tspan>
+<tspan x="15" y="337">                        :0@i i++itNMUfllj++jtlllfXYN0%%NXft:Yt                          </tspan>
+<tspan x="15" y="345">                       lW@%: +l++=if0%%W%M%%%%%%WWWW%0XttX+ ~@N:                        </tspan>
+<tspan x="15" y="353">                     ;0@W@X   jj+=++jfU0%@@@@@@@WW%NYfftfl   0@Wt                       </tspan>
+<tspan x="15" y="361">                   :U@@WW@l    +i+++iii+jtYNM00NNUYXXfffj    X@WW%=                     </tspan>
+<tspan x="15" y="369">                ;t0W@WWWW@l     ~+=++iiii+++ijfYYXXXfff+     l@WWW@0t~                  </tspan>
+<tspan x="15" y="377">           :+tNW@@@WWWWWW@X       ~+iiijlli+jXYYXXXXXt:      j@WWWWW@@W0t=              </tspan>
+<tspan x="15" y="385">     ;+lYMW@@@@WWWWWWWWWWW0        ,=jjjjltXUYXXXYYXi        t@WWWWWWWWW@@W%Ut+;        </tspan>
+<tspan x="15" y="393">tUMWW@@@@@WWWWWWWWWWWWWWWWW;         ,~+ijtXXXfXXti,         X@WWWWWWWWWWWWWW@@WW%Nfj~  </tspan>
+<tspan x="15" y="401">@@@WWWWWWWWWWWWWWWWWWWWWWW@t            ,::;;~~~:            Y@WWWWWWWWWWWWWWWWWWWW@@WW%</tspan>
+<tspan x="15" y="409">WWWWWWWWWWWWWWWWWWWWWWWWWWWM        iUUXYUUXXXXUUXUt         N@WWWWWWWWWWWWWWWWWWWWWWWWW</tspan>
+<tspan x="15" y="417">WWWWWWWWWWWWWWWWWWWWWWWWWWWW;     :iW@@@@@WWWWWWWW@@X;       %WWWWWWWWWWWWWWWWWWWWWWWWWW</tspan>
+<tspan x="15" y="425">WWWWWWWWWWWWWWWWWWWWWWWWWWW@Y    ,:  Y@WWWWWWW%WW@%~  ::     WWWWWWWWWWWWWWWWWWWWWWWWWWW</tspan>
+<tspan x="15" y="433">WWWWWWWWWWWWWWWWWWWWWWWWWWWWW:        X@@WWWW%%W@Y          =@WWWWWWWWWWWWWWWWWWWWWWWWWW</tspan>
+<tspan x="15" y="441">WWWWWWWWWWWWWWWWWWWWWWWWWWWW@l        :U@@WWW%W@j           f@WWWWWWWWWWWWWWWWWWWWWWWWWW</tspan>
+<tspan x="15" y="449">WWWWWWWWWWWWWWWWWWWWWWWWWWWW@M         :U@WWWW@t            N@WWWWWWWWWWWWWWWWWWWWWWWWWW</tspan>
+<tspan x="15" y="457">WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW~         t@WWWW@%            %@WWWWWWWWWWWWWWWWWWWWWWWWWW</tspan>
+<tspan x="15" y="465">WWWWWWWWWWWWWWWWWWWWWWWWWWWWW@f         W@WWWWW@i          :W@WWWWWWWWWWWWWWWWWWWWWWWWWW</tspan>
+<tspan x="15" y="473">WWWWWWWWWWWWWWWWWWWWWWWWWWWWW@0        j@WWWWWW@N          ;WWWWWWWWWWWWWWWWWWWWWWWWWWWW</tspan>
+<tspan x="15" y="481">WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW;       N@WWWWWWWW,         +@WWWWWWWWWWWWWWWWWWWWWWWWWWW</tspan>
+</text>
+<text x="390" y="30" fill="#24292f">
+<tspan x="390" y="30">Amiru</tspan><tspan class="cc"> ----------------------------------------------------</tspan>
+<tspan x="390" y="50"  class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: .................. </tspan><tspan class="value">Windows 11 Pro, Android 14, Linux</tspan>
+<tspan x="390" y="70"  class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc">: .................... </tspan><tspan class="value">22 years, 5 months, 29 days</tspan>
+<tspan x="390" y="90"  class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc">: ....................................... </tspan><tspan class="value">Windows PC</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="cc">: ................................ </tspan><tspan class="value">Windows NT 11.0</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Architecture</tspan><tspan class="cc">: ................................... </tspan><tspan class="value">64-bit</tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">CPU</tspan><tspan class="cc">: ................................ </tspan><tspan class="value">AMD RYZEN 7 7435HS</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc">: ....................... </tspan><tspan class="value">IDEA, VSCode, Git, NetBeans</tspan>
+<tspan x="390" y="190" class="cc">. </tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan><tspan class="cc">: ... </tspan><tspan class="value">Java, Python, JavaScript, C++</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan><tspan class="cc">: ....... </tspan><tspan class="value">HTML, CSS, JSON, LaTeX, YAML</tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan><tspan class="cc">: ....................... </tspan><tspan class="value">English, Sinhala</tspan>
+<tspan x="390" y="270" class="cc">. </tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan><tspan class="cc">: ... </tspan><tspan class="value">Software Development &amp; Programming</tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan><tspan class="cc">: ........... </tspan><tspan class="value">Overclocking, Undervolting</tspan>
+<tspan x="390" y="350">- Contact</tspan><tspan class="cc"> ------------------------------------------------------</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan><tspan class="cc">: .................... </tspan><tspan class="value">amirupekw@gmail.com</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: ................................... </tspan><tspan class="value">Amiru Upek</tspan>
+</text>
+</svg>
