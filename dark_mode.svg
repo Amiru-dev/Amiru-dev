@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+.ascii { font-size: 7px; letter-spacing: 0px; line-height: 8px; }
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="25" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="25">                                                                                        </tspan>
+<tspan x="15" y="33">                                                                                        </tspan>
+<tspan x="15" y="41">                                           0NUNN0                                       </tspan>
+<tspan x="15" y="49">                                  Ntj+~:''.........';jU                                 </tspan>
+<tspan x="15" y="57">                               Y+'.................    .~U                              </tspan>
+<tspan x="15" y="65">                            X+'...'..'''........'.....    ~                             </tspan>
+<tspan x="15" y="73">                          Y;.....'......''...........      :Y                           </tspan>
+<tspan x="15" y="81">                         ;   .....''.....'............      .';l                        </tspan>
+<tspan x="15" y="89">                       j    ...........'.........     .         .l                      </tspan>
+<tspan x="15" y="97">                      :     .   ............ ...                  :                     </tspan>
+<tspan x="15" y="105">                     '          .'........                         '                    </tspan>
+<tspan x="15" y="113">                    '           ....'''...  .                       j                   </tspan>
+<tspan x="15" y="121">                   +            ...''''....'',::;~~=ji+~:'.       . .                   </tspan>
+<tspan x="15" y="129">                  N.             .',':;~+ltfXXXXXXYYYXfftli+;.    .  t                  </tspan>
+<tspan x="15" y="137">                  t  ..          .;itXYNN0000000NNNUYYXXffttl=. .... =                  </tspan>
+<tspan x="15" y="145">                  Y .  . .=;;~=iilYN00M00000000000NUYYXXffftli' .... .                  </tspan>
+<tspan x="15" y="153">                  Y    ..~fYYYUUN000MMMMM00000000NNUUYXXffftli'       0                 </tspan>
+<tspan x="15" y="161">                  N    .'+fYYYUUN000MMM00000000000NUUYXXffftti' .    .                  </tspan>
+<tspan x="15" y="169">                  N    ..ifYYYUNN000MMM00000000000NNUUYYXXfftj,      +                  </tspan>
+<tspan x="15" y="177">                   .   ..lXYUUUN0MMMMMMM0000000000000NUYXfXftl~     .                   </tspan>
+<tspan x="15" y="185">                   X  . .XXflj+=+iiilXUNN0000000NXj~;''''':;+li     f                   </tspan>
+<tspan x="15" y="193">                    Y.  'Xfj=ii=:,''.'~jtYNNNNYj~'   .'':;;:~lt.   +                    </tspan>
+<tspan x="15" y="201">                     N. 'YXXftjitl=~=;:~itYUUYl;''':;;~=;;=jltX, .~l                    </tspan>
+<tspan x="15" y="209">                     Xt.,YYXfi;t ~  jNjitXUNNXj=::XN. .Xf:;+ltX; 'j'l                   </tspan>
+<tspan x="15" y="217">                    Mii.;UYUUXtN U~+N0UUUUN0NYtllf0 t+f0XjlfffY~ 'iiM                   </tspan>
+<tspan x="15" y="225">                     Yi.~UUN00UXXUUYfXUNNNN00UffXYXfXXXttXYYYXY= 'iX                    </tspan>
+<tspan x="15" y="233">                     Mf,~UU00MMM0000000NNN000UXfXYUNNNNN00NUYYY=.~l0                    </tspan>
+<tspan x="15" y="241">                      UtiYN0MM0NNMMMMM0NN00MMNYXfXUN000000NNUYY+~jt                     </tspan>
+<tspan x="15" y="249">                       YlfU00M0NNMMMMM0000MMM0YXYXYN00000NNUYXX=+j                      </tspan>
+<tspan x="15" y="257">                        jlYU00MMMMMM000Y+=fYfl~:+fYUNN00NNUYXfl;+0                      </tspan>
+<tspan x="15" y="265">                        XifXYN000000000UlfYfiji=ifYYYUUUUYXftj+t                        </tspan>
+<tspan x="15" y="273">                         YjlfXYUNNNNNNNNUUYXYYftttfttfXXXflj+=+                         </tspan>
+<tspan x="15" y="281">                          jjjltXYYXffXYUUNUUUYYfftji=+ijlji=~~j                         </tspan>
+<tspan x="15" y="289">                          XjjjlfXfti+illlttfflli=~~::=+iji+~~:Y                         </tspan>
+<tspan x="15" y="297">                           ljjjtffftjiilXN0000NYtj+=iiiiji+~,+                          </tspan>
+<tspan x="15" y="305">                           0iijltffXYYXfttl+=~===+ijjii++=~'~                           </tspan>
+<tspan x="15" y="313">                            0=+jlljlXXXfj=::,:;~~+ii+=~~~~:i                            </tspan>
+<tspan x="15" y="321">                             l+=+iiltfYUNUNNUYYYXfli=~;;:,j                             </tspan>
+<tspan x="15" y="329">                          t+NfXl~:~jtfXYN0NNUUYYYfli=~:',=jN                            </tspan>
+<tspan x="15" y="337">                        0: f fXXfj;,~illtXXtjllli+=;:'';+ij0=j                          </tspan>
+<tspan x="15" y="345">                       l. '0 XlXXYfi:''.',''''''....':+jj+X U ;0                        </tspan>
+<tspan x="15" y="353">                     N: . +   ttXYXXti~:'       ..';=iijil   : .j                       </tspan>
+<tspan x="15" y="361">                   0~  .. l    XfXXXfffXtj=;,::;;~=++iiit    + ..'Y                     </tspan>
+<tspan x="15" y="369">                Nj:. .... l     UXYXXffffXXXfti==+++iiiX     l ... :jU                  </tspan>
+<tspan x="15" y="377">           0Xj;.   ...... +       UXffftllfXt+==+++++j0      t .....  .:jY              </tspan>
+<tspan x="15" y="385">     NXl=,.    ...........:        MYttttlj+~=+++==+f        j .........  .'~jXN        </tspan>
+<tspan x="15" y="393">j~,..     .................N         MUXftj+++i++jfM         + ..............  ..';itU  </tspan>
+<tspan x="15" y="401">   ....................... j            M00NNUUU0            = ....................  ..'</tspan>
+<tspan x="15" y="409">...........................,        f~~+=~~++++~~+~j         ; .........................</tspan>
+<tspan x="15" y="417">............................N     0f.     ........  +N       '..........................</tspan>
+<tspan x="15" y="425">........................... =    M0  = .......'.. 'U  00     ...........................</tspan>
+<tspan x="15" y="433">.............................0        +  ....''. =          Y ..........................</tspan>
+<tspan x="15" y="441">............................ l        0~  ...'. t           i ..........................</tspan>
+<tspan x="15" y="449">............................ ,         0~ .... j            ; ..........................</tspan>
+<tspan x="15" y="457">..............................U         j .... '            ' ..........................</tspan>
+<tspan x="15" y="465">............................. i         . ..... f          0. ..........................</tspan>
+<tspan x="15" y="473">............................. :        t ...... ;          N............................</tspan>
+<tspan x="15" y="481">...............................N       ; ........M         X ...........................</tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">Amiru</tspan><tspan class="cc"> ————————————————————————————————————————————————————</tspan>
+<tspan x="390" y="50"  class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: .................. </tspan><tspan class="value">Windows 11 Pro, Android 14, Linux</tspan>
+<tspan x="390" y="70"  class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc">: .................... </tspan><tspan class="value">22 years, 5 months, 29 days</tspan>
+<tspan x="390" y="90"  class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc">: ....................................... </tspan><tspan class="value">Windows PC</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="cc">: ................................ </tspan><tspan class="value">Windows NT 11.0</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Architecture</tspan><tspan class="cc">: ................................... </tspan><tspan class="value">64-bit</tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">CPU</tspan><tspan class="cc">: ................................ </tspan><tspan class="value">AMD RYZEN 7 7435HS</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc">: ....................... </tspan><tspan class="value">IDEA, VSCode, Git, NetBeans</tspan>
+<tspan x="390" y="190" class="cc">. </tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan><tspan class="cc">: ... </tspan><tspan class="value">Java, Python, JavaScript, C++</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan><tspan class="cc">: ....... </tspan><tspan class="value">HTML, CSS, JSON, LaTeX, YAML</tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan><tspan class="cc">: ....................... </tspan><tspan class="value">English, Sinhala</tspan>
+<tspan x="390" y="270" class="cc">. </tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan><tspan class="cc">: ... </tspan><tspan class="value">Software Development &amp; Programming</tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan><tspan class="cc">: ........... </tspan><tspan class="value">Overclocking, Undervolting</tspan>
+<tspan x="390" y="350">- Contact</tspan><tspan class="cc"> ——————————————————————————————————————————————————————</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan><tspan class="cc">: .................... </tspan><tspan class="value">amirupekw@gmail.com</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: ................................... </tspan><tspan class="value">Amiru Upek</tspan>
+</text>
+</svg>
