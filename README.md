@@ -1,3 +1,10 @@
+<a href="https://github.com/Amiru-dev/Amiru-dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amiru-dev/Amiru-dev/main/dark_mode.svg">
+    <img alt="Amiru Upek's GitHub Profile README" src="https://raw.githubusercontent.com/Amiru-dev/Amiru-dev/main/light_mode.svg">
+  </picture>
+</a>
+
 <p align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture></p>
 
 <h1 align="center">Greetings 👋, I'm Amiru Upek</h1>
