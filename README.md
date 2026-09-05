@@ -46,17 +46,18 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+<!-- The service you were using seems to be down. You can host your own (e.g. github.com/novatorem/novatorem) -->
+<!-- [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645) -->
 
 ---
 
 <h2 align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> GitHub Stats</h2>
   <!--- stats (start) -->
   <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amiru-dev&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+     <a href="https://github.com/amiru-dev">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=amiru-dev&show_icons=true&include_all_commits=true&theme=react&line_height=40" />
     </a>
-</div
+  </div>
 
 <br/>
 
