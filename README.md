@@ -31,7 +31,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - 📫 How to reach me **amirupekw@gmail.com**
 
 - ⚡ In the world of endless possibilities, remember **"Nothing is true, Everything is permitted"**<br/><br/><br/>
-- ---
+
+---
 
 <h2 align="center">🛠️ Languages, Frameworks and Tools</h2>
 <p align="center">
@@ -42,22 +43,19 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" align="right" />
 
-### Spotify Playing 🎧
-
-<!-- The service you were using seems to be down. You can host your own (e.g. github.com/novatorem/novatorem) -->
-<!-- [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645) -->
+### Spotify Playing 🎧 
 
 ---
 
 <h2 align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> GitHub Stats</h2>
   <!--- stats (start) -->
-  <div align="center"> 
+  <p align="center"> 
      <a href="https://github.com/amiru-dev">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=amiru-dev&show_icons=true&include_all_commits=true&theme=react&line_height=40" />
+      <img align="center" src="https://streak-stats.demolab.com/?user=amiru-dev&theme=react" />
     </a>
-  </div>
+  </p>
 
 <br/>
 
