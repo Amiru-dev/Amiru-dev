@@ -55,7 +55,5 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
     </a>
   </p>
 
-<br/>
-
 ---
 <!--- stats (end) -->
